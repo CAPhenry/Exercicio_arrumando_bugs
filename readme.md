@@ -1,3 +1,5 @@
+### O site foi arrumado!
+
 ### Exercício Módulo 10 - Plugins jQuery
 
 ## Dicas
